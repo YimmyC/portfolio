@@ -30,7 +30,15 @@ header, main, footer {
 
 main {
     flex-grow: 1;
+    align-self: center;
+    align-items: stretch;
+    border: 0; 
+    
+    
 }
+
+
+
 
 /* classes */
 .mt- {
