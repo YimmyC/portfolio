@@ -32,7 +32,8 @@ main {
     flex-grow: 1;
     align-self: center;
     align-items: stretch;
-    border: 0; 
+    border: 0;
+    background: #000 center/cover url(./images/02105_blueforest_672x420.jpg) no-repeat;
     
     
 }
