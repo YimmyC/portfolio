@@ -15,8 +15,9 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(189, 89, 89);
     height: 100vh;
-    background: #000 url(./images/02105_blueforest_672x420.jpg) no-repeat;
+    background: #000 url(./images/aicity.png) no-repeat;
     background-size: cover;
     background-position: center, center;
     background-attachment: fixed;
@@ -38,7 +39,7 @@ main {
     align-self: center;
     align-items: stretch;
     border: 0;
-    
+    text-shadow: 0 0 3px #17e0e3, 0 0 5px #31313a;
     
     
 }
