@@ -1,7 +1,7 @@
 /* wire frame: TODO: delete later */
-header, main, footer {
+/* header, main, footer { 
     border: 1px solid navy;
-}
+} */
 
 
 /* reset */
@@ -15,9 +15,9 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(189, 89, 89);
+    color: rgb(0, 0, 0);
     height: 100vh;
-    background: #000 url(./images/aicity.png) no-repeat;
+    background: #000 url(./images/purple\ cyberpunk\ city.png) no-repeat;
     background-size: cover;
     background-position: center, center;
     background-attachment: fixed;
@@ -43,6 +43,13 @@ main {
     
     
 }
+
+/* main > p { 
+    margin: 0;
+    padding: 1rem;
+    border: 1px blueviolet;
+    background-color: rgb(18, 202, 58);
+}   */
 
 
 
